@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Guía reforma">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fffdf8"/><stop offset=".58" stop-color="#f3ecdf"/><stop offset="1" stop-color="#e7dac8"/></linearGradient>
+    <radialGradient id="glow" cx=".2" cy=".12" r=".7"><stop stop-color="#b56f2f" stop-opacity=".18"/><stop offset=".72" stop-color="#b56f2f" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0v56" fill="none" stroke="#151411" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="900" height="620" fill="url(#bg)"/>
+  <rect width="900" height="620" fill="url(#glow)"/>
+  <rect width="900" height="620" fill="url(#grid)"/>
+  <rect x="54" y="50" width="792" height="520" rx="18" fill="none" stroke="#151411" stroke-opacity=".1"/>
+  <path d="M76 92h56" stroke="#b56f2f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M76 112h118" stroke="#151411" stroke-width="4" stroke-opacity=".18" stroke-linecap="round"/>
+  <g transform="translate(28 26) scale(.94)" opacity=".92">
+    <rect x="100" y="120" width="320" height="380" fill="#fffaf0" stroke="#151411" stroke-width="5"/><rect x="450" y="170" width="300" height="250" fill="#ede5d7" stroke="#151411" stroke-width="5"/><path d="M145 185h225M145 235h225M145 285h180M145 335h225" stroke="#60727a" stroke-width="10"/><path d="M500 235h200M500 285h140M500 335h180" stroke="#b56f2f" stroke-width="12"/><circle cx="250" cy="440" r="28" fill="#b56f2f"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Pladur Madrid">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fffdf8"/><stop offset=".58" stop-color="#f3ecdf"/><stop offset="1" stop-color="#e7dac8"/></linearGradient>
+    <radialGradient id="glow" cx=".2" cy=".12" r=".7"><stop stop-color="#9c4f3a" stop-opacity=".18"/><stop offset=".72" stop-color="#9c4f3a" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0v56" fill="none" stroke="#151411" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="900" height="620" fill="url(#bg)"/>
+  <rect width="900" height="620" fill="url(#glow)"/>
+  <rect width="900" height="620" fill="url(#grid)"/>
+  <rect x="54" y="50" width="792" height="520" rx="18" fill="none" stroke="#151411" stroke-opacity=".1"/>
+  <path d="M76 92h56" stroke="#9c4f3a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M76 112h118" stroke="#151411" stroke-width="4" stroke-opacity=".18" stroke-linecap="round"/>
+  <g transform="translate(28 26) scale(.94)" opacity=".92">
+    <path d="M120 520h660V210L450 80 120 210v310Z" fill="#fffaf0" stroke="#151411" stroke-width="5"/><path d="M180 480h190V300H180v180Z" fill="#ede5d7" stroke="#151411" stroke-width="4"/><path d="M440 480h220V260H440v220Z" fill="#ede5d7" stroke="#151411" stroke-width="4"/><path d="M220 330h110M220 370h110M220 410h110" stroke="#60727a" stroke-width="8"/><path d="M485 315h130v120H485z" fill="#9c4f3a" opacity=".82"/>
+  </g>
+</svg>

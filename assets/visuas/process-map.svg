@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Proceso Rostik">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fffdf8"/><stop offset=".58" stop-color="#f3ecdf"/><stop offset="1" stop-color="#e7dac8"/></linearGradient>
+    <radialGradient id="glow" cx=".2" cy=".12" r=".7"><stop stop-color="#d7a83f" stop-opacity=".18"/><stop offset=".72" stop-color="#d7a83f" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0v56" fill="none" stroke="#151411" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="900" height="620" fill="url(#bg)"/>
+  <rect width="900" height="620" fill="url(#glow)"/>
+  <rect width="900" height="620" fill="url(#grid)"/>
+  <rect x="54" y="50" width="792" height="520" rx="18" fill="none" stroke="#151411" stroke-opacity=".1"/>
+  <path d="M76 92h56" stroke="#d7a83f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M76 112h118" stroke="#151411" stroke-width="4" stroke-opacity=".18" stroke-linecap="round"/>
+  <g transform="translate(28 26) scale(.94)" opacity=".92">
+    <path d="M130 140h180v120H130zM360 140h180v120H360zM590 140h180v120H590zM245 350h180v120H245zM500 350h180v120H500z" fill="#fffaf0" stroke="#151411" stroke-width="5"/><path d="M310 200h50M540 200h50M450 260l-80 90M565 260l25 90" stroke="#d7a83f" stroke-width="12" stroke-linecap="round"/><path d="M165 200h110M395 200h110M625 200h110M280 410h110M535 410h110" stroke="#60727a" stroke-width="9"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Azulejos">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fffdf8"/><stop offset=".58" stop-color="#f3ecdf"/><stop offset="1" stop-color="#e7dac8"/></linearGradient>
+    <radialGradient id="glow" cx=".2" cy=".12" r=".7"><stop stop-color="#69735a" stop-opacity=".18"/><stop offset=".72" stop-color="#69735a" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0v56" fill="none" stroke="#151411" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="900" height="620" fill="url(#bg)"/>
+  <rect width="900" height="620" fill="url(#glow)"/>
+  <rect width="900" height="620" fill="url(#grid)"/>
+  <rect x="54" y="50" width="792" height="520" rx="18" fill="none" stroke="#151411" stroke-opacity=".1"/>
+  <path d="M76 92h56" stroke="#69735a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M76 112h118" stroke="#151411" stroke-width="4" stroke-opacity=".18" stroke-linecap="round"/>
+  <g transform="translate(28 26) scale(.94)" opacity=".92">
+    <rect x="105" y="130" width="680" height="380" fill="#fffaf0" stroke="#151411" stroke-width="5"/><path d="M165 180h300v250H165z" fill="#e6e0d3" stroke="#151411" stroke-width="4"/><path d="M500 220h210v210H500z" fill="#d8c7aa" stroke="#151411" stroke-width="4"/><path d="M190 210h245M190 260h245M190 310h245M190 360h245M220 185v245M290 185v245M360 185v245" stroke="#60727a" stroke-width="4"/><path d="M535 260h140" stroke="#69735a" stroke-width="16" stroke-linecap="round"/>
+  </g>
+</svg>
