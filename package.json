@@ -1,0 +1,11 @@
+{
+  "name": "rostik-renovations-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "check:js": "node --check assets/js/app.js && node --check scripts/build-site.mjs",
+    "minify": "npx --yes csso-cli assets/css/styles.css --output assets/css/styles.min.css && npx --yes terser assets/js/app.js --compress --mangle --output assets/js/app.min.js"
+  }
+}

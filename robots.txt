@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rostikrenovation.com/sitemap.xml

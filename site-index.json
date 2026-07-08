@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2026-07-08T02:25:09.281Z",
+  "domain": "https://rostikrenovation.com",
+  "count": 21,
+  "pages": [
+    {
+      "url": "/",
+      "title": "Inicio",
+      "category": "Home",
+      "description": "Rostik Renovations S.L.U realiza reformas integrales, carpintería de acero, escaleras metálicas, cocinas, mamparas, puertas, azulejos, pladur y suelos en Madrid."
+    },
+    {
+      "url": "/servicios/",
+      "title": "Servicios",
+      "category": "Services",
+      "description": "Servicios de reforma y acero en Madrid."
+    },
+    {
+      "url": "/servicios/reformas-integrales-madrid.html",
+      "title": "Reformas integrales en Madrid",
+      "category": "Service",
+      "description": "Coordinación completa de vivienda o local: demolición controlada, pladur, suelos, azulejos, cocina, baño, pintura, remates y entrega."
+    },
+    {
+      "url": "/servicios/carpinteria-acero-madrid.html",
+      "title": "Carpintería de acero en Madrid",
+      "category": "Service",
+      "description": "Diseño, fabricación y montaje de piezas metálicas para interiores y exteriores: puertas, mamparas, barandillas, estructuras ligeras y detalles a medida."
+    },
+    {
+      "url": "/servicios/escaleras-metalicas-madrid.html",
+      "title": "Escaleras metálicas en Madrid",
+      "category": "Service",
+      "description": "Escaleras de metal interiores, barandillas, zancas, peldaños combinados y soluciones a medida para viviendas, estudios y locales."
+    },
+    {
+      "url": "/servicios/cocinas-a-medida-madrid.html",
+      "title": "Reformas de cocinas en Madrid",
+      "category": "Service",
+      "description": "Cocinas funcionales con distribución, muebles, encimeras, alicatados, iluminación, suelos y detalles metálicos cuando el diseño lo pide."
+    },
+    {
+      "url": "/servicios/banos-mamparas-madrid.html",
+      "title": "Baños y mamparas en Madrid",
+      "category": "Service",
+      "description": "Reformas de baño, platos de ducha, alicatado, mamparas, sellados, mobiliario y remates limpios para uso diario."
+    },
+    {
+      "url": "/servicios/mamparas-puertas-metalicas-madrid.html",
+      "title": "Mamparas y puertas metálicas en Madrid",
+      "category": "Service",
+      "description": "Cerramientos de acero, puertas interiores, divisiones tipo taller, mamparas de cristal y perfilería metálica para separar sin oscurecer."
+    },
+    {
+      "url": "/servicios/azulejos-alicatados-madrid.html",
+      "title": "Azulejos y alicatados en Madrid",
+      "category": "Service",
+      "description": "Alicatados de baño y cocina, solados, juntas, nivelación, cortes limpios y preparación de soporte para un acabado duradero."
+    },
+    {
+      "url": "/servicios/pladur-techos-tabiques-madrid.html",
+      "title": "Pladur, techos y tabiques en Madrid",
+      "category": "Service",
+      "description": "Tabiques, trasdosados, techos, registros, integración de luz, aislamiento y acabados listos para pintar."
+    },
+    {
+      "url": "/servicios/suelos-revestimientos-madrid.html",
+      "title": "Suelos y revestimientos en Madrid",
+      "category": "Service",
+      "description": "Instalación de suelos laminados, vinílicos, cerámicos y remates de rodapié, nivelación y encuentros entre estancias."
+    },
+    {
+      "url": "/presupuesto.html",
+      "title": "Planificador",
+      "category": "App",
+      "description": "Planificador interactivo de reforma."
+    },
+    {
+      "url": "/proceso.html",
+      "title": "Proceso",
+      "category": "Company",
+      "description": "Método de trabajo de Rostik."
+    },
+    {
+      "url": "/proyectos.html",
+      "title": "Proyectos",
+      "category": "Projects",
+      "description": "Tipos de proyectos de reforma."
+    },
+    {
+      "url": "/guias/",
+      "title": "Guías",
+      "category": "Guides",
+      "description": "Guías de reforma."
+    },
+    {
+      "url": "/guias/guia-reforma-integral-madrid.html",
+      "title": "Guía para planificar una reforma integral en Madrid",
+      "category": "Guide",
+      "description": "Orden recomendado para evitar decisiones tarde, compras duplicadas y remates eternos."
+    },
+    {
+      "url": "/guias/carpinteria-acero-interiores.html",
+      "title": "Cómo usar carpintería de acero en interiores",
+      "category": "Guide",
+      "description": "Puertas, mamparas, escaleras y divisiones metálicas sin que el espacio se sienta pesado."
+    },
+    {
+      "url": "/guias/cocina-funcional-medidas.html",
+      "title": "Checklist de una cocina funcional antes de reformar",
+      "category": "Guide",
+      "description": "Medidas, circulación, enchufes, luz y materiales que se deben decidir antes de empezar."
+    },
+    {
+      "url": "/guias/pladur-tabiques-techos.html",
+      "title": "Pladur: cuándo usarlo en una reforma",
+      "category": "Guide",
+      "description": "Tabiques, techos, aislamiento y registros explicados con criterios prácticos."
+    },
+    {
+      "url": "/guias/suelos-para-viviendas-madrid.html",
+      "title": "Cómo elegir suelo para una vivienda en Madrid",
+      "category": "Guide",
+      "description": "Vinílico, laminado, cerámico y madera desde el punto de vista de uso real."
+    },
+    {
+      "url": "/contacto.html",
+      "title": "Contacto",
+      "category": "Contact",
+      "description": "Teléfono 603 78 12 71."
+    }
+  ]
+}
